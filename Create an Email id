@@ -1,0 +1,7 @@
+name=input("Enter your full name:\n")
+birthdate=input("Enter your date of birth:\n")
+phonenumber=input("Enter your phone number:\n")
+otp=input("Enter the received OTP:\n")
+emailid=input("Create your email id:\n")
+password=input("Create your password:\n")
+verifypassword=input("Verify password:\n")
