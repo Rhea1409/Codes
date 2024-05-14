@@ -1,0 +1,6 @@
+def a():
+  print("Inside Function",s)
+s="I love Python"
+a()    
+print("Outside Function",s)
+
